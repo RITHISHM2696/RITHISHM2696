@@ -15,49 +15,49 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a Software Engineering student with strong foundations in **Java, Data Structures, and Databases**.
 I enjoy building **AI-powered applications** and scalable backend systems using **Spring Boot and React**.
 
-💡 Passionate about solving real-world problems and continuously improving my development skills.
+ Passionate about solving real-world problems and continuously improving my development skills.
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
-### 💻 Programming
+###  Programming
 
 * Java
 * Python
 * C
 
-### 📚 Core Concepts
+### Core Concepts
 
 * OOP
 * Collections Framework
 * Exception Handling
 * Multithreading (Basic)
 
-### 🧠 Data Structures & Algorithms
+###  Data Structures & Algorithms
 
 * Arrays, Lists, Sets
 * Stacks, Queues
 * HashMaps
 * Searching & Sorting
 
-### 🌐 Development
+###  Development
 
 * **Backend:** Spring Boot, REST APIs
 * **Frontend:** HTML, CSS, JavaScript, React
 
-### 🗄️ Databases
+###  Databases
 
 * MySQL
 * PostgreSQL
 * MongoDB
 
-### ⚙️ Tools
+###  Tools
 
 * Monaco Editor
 * Postman
@@ -65,7 +65,7 @@ I enjoy building **AI-powered applications** and scalable backend systems using 
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 🔹 Compilix – AI-Powered Code Execution Platform
 
@@ -96,14 +96,14 @@ I enjoy building **AI-powered applications** and scalable backend systems using 
 
 ---
 
-## 🎯 Achievements
+##  Achievements
 
-* 🧩 Solved **600+ problems on LeetCode**
-* 💪 Strong focus on **DSA and problem-solving**
+*  Solved **600+ problems on LeetCode**
+*  Strong focus on **DSA and problem-solving**
 
 ---
 
-## 🎓 Education
+##  Education
 
 **B.E. Electronics and Communication Engineering**
 Bannari Amman Institute of Technology (2023 – 2027)
@@ -115,13 +115,13 @@ Percentage: 86%
 
 ---
 
-## 📜 Certification
+##  Certification
 
 * Diploma in C Programming (C & OOP concepts using C++)
 
 ---
 
-## 🔥 Current Focus
+##  Current Focus
 
 * Mastering **Data Structures & Algorithms**
 * Backend development using **Spring Boot**
@@ -129,8 +129,3 @@ Percentage: 86%
 
 ---
 
-## 🤝 Let's Connect
-
-💼 Open to internships & collaboration opportunities
-
----
