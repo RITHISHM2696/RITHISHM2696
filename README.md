@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm Rithish M
+#  Hi, I'm Rithish M
 
-### 🚀 Java Developer | Backend Engineer | Problem Solver
+###  Java Developer | Backend Engineer | Problem Solver
 
-📧 [rithishmuthusamys@gmail.com](mailto:rithishmuthusamys@gmail.com)
-📱 +91 9976049291
+ [rithishmuthusamys@gmail.com](mailto:rithishmuthusamys@gmail.com)
+ +91 9976049291
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge\&logo=github)](#)
