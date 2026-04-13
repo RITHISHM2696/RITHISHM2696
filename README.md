@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hi, I'm Rithish M
+#  RITHISH M
 
 ###  Java Developer | Backend Engineer | Problem Solver
 
