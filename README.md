@@ -17,7 +17,7 @@
 
 ## About Me
 
-I am a Software Engineering student with strong foundations in **Java, Data Structures, and Databases**.
+I am a Software Engineering student with strong foundations in **Java, Data Structures and Databases**.
 I enjoy building **AI-powered applications** and scalable backend systems using **Spring Boot and React**.
 
  Passionate about solving real-world problems and continuously improving my development skills.
