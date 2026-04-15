@@ -34,7 +34,7 @@ I enjoy building **AI-powered applications** and scalable backend systems using 
 
 ### Core Concepts
 
-* OOP
+* OOPs
 * Collections Framework
 * Exception Handling
 * Multithreading (Basic)
