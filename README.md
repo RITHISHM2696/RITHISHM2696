@@ -107,7 +107,6 @@ I enjoy building **AI-powered applications** and scalable backend systems using 
 Bannari Amman Institute of Technology (2023 – 2027)
 CGPA: 7.85
 
-**Higher Secondary**
 SVV Matric Higher Secondary School
 Percentage: 86%
 
