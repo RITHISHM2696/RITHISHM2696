@@ -2,7 +2,6 @@
 
 #  RITHISH M
 
-
 ###  Java Developer | Backend Engineer | Problem Solver
 
  [rithishmuthusamys@gmail.com](mailto:rithishmuthusamys@gmail.com)
