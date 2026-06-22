@@ -4,7 +4,6 @@
  [rithishmuthusamys@gmail.com](mailto:rithishmuthusamys@gmail.com)
  +91 9976049291
  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge\&logo=github)](#)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge\&logo=leetcode)](#)
