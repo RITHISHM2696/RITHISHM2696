@@ -3,7 +3,6 @@
 ###  Java Developer | Backend Engineer | Problem Solver
  [rithishmuthusamys@gmail.com](mailto:rithishmuthusamys@gmail.com)
  +91 9976049291
-
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](#)
 
