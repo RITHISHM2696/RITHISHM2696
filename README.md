@@ -1,128 +1,132 @@
 <div align="center">
-#  RITHISH M
-###  Java Developer | Backend Engineer | Problem Solver
- [rithishmuthusamys@gmail.com](mailto:rithishmuthusamys@gmail.com)
- +91 9976049291
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](#)
+# RITHISH M  
+### Java Developer | Backend Engineer | Problem Solver  
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge\&logo=github)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge\&logo=leetcode)](#)
+📧 rithishmuthusamys@gmail.com  
+📞 +91 9976049291  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](#)
+
 </div>
+
+---
 
 ## About Me
 
-I am a Software Engineering student with strong foundations in **Java, Data Structures and Databases**.
+I am a Software Engineering student with a strong foundation in **Java, Data Structures, and Databases**.  
 I enjoy building **AI-powered applications** and scalable backend systems using **Spring Boot and React**.
 
- Passionate about solving real-world problems and continuously improving my development skills.
+I am passionate about solving real-world problems and continuously improving my software development skills.
 
 ---
 
-##  Skills
+## Skills
 
-###  Programming
-
-* Java
-* Python
-* C
+### Programming Languages
+- Java
+- Python
+- C
 
 ### Core Concepts
+- Object-Oriented Programming (OOP)
+- Java Collections Framework
+- Exception Handling
+- Multithreading (Basic)
 
-* OOPs
-* Collections Framework
-* Exception Handling
-* Multithreading (Basic)
+### Data Structures & Algorithms
+- Arrays, Linked Lists, Sets
+- Stacks and Queues
+- HashMaps
+- Searching and Sorting Algorithms
 
-###  Data Structures & Algorithms
+### Development
+**Backend:**
+- Spring Boot
+- REST APIs
 
-* Arrays, Lists, Sets
-* Stacks, Queues
-* HashMaps
-* Searching & Sorting
+**Frontend:**
+- HTML
+- CSS
+- JavaScript
+- React
 
-###  Development
+### Databases
+- MySQL
+- PostgreSQL
+- MongoDB
 
-* **Backend:** Spring Boot, REST APIs
-* **Frontend:** HTML, CSS, JavaScript, React
-
-###  Databases
-
-* MySQL
-* PostgreSQL
-* MongoDB
-
-###  Tools
-
-* Monaco Editor
-* Postman
-* VS Code
+### Tools
+- Monaco Editor
+- Postman
+- VS Code
+- Git & GitHub
 
 ---
 
-##  Projects
+## Projects
 
 ### 🔹 Compilix – AI-Powered Code Execution Platform
-
-* Built an AI-powered compiler that detects & fixes errors before execution
-* Ensures successful compilation while preserving logic
-* Analyzes **time and space complexity**
+- Developed an AI-powered compiler that detects and fixes errors before execution.
+- Improves compilation success while preserving program logic.
+- Analyzes **time and space complexity** of the code.
 
 **Tech Stack:** React, JavaScript, Spring Boot, Groq API
 
 ---
 
 ### 🔹 Knowledge Analytic System
-
-* Developed full CRUD operations for student data
-* Built REST APIs with database integration
-* Designed responsive UI
+- Developed a student performance analysis system with full CRUD operations.
+- Built REST APIs with database integration.
+- Designed a responsive and user-friendly interface.
 
 **Tech Stack:** React, Spring Boot, MySQL
 
 ---
 
 ### 🔹 Voice-Based Form Filling System
-
-* Converts voice input into text using Faster-Whisper
-* Enables hands-free form filling
+- Built a voice-enabled form-filling system using speech-to-text technology.
+- Converts voice input into text for hands-free form filling.
 
 **Tech Stack:** Python, React, Faster-Whisper
 
 ---
 
-##  Achievements
-
-*  Solved **600+ problems on LeetCode**
-*  Strong focus on **DSA and problem-solving**
-
----
-
-##  Education
-
-**B.E. Electronics and Communication Engineering**
-Bannari Amman Institute of Technology (2023 – 2027)
-CGPA: 7.85
-
-SVV Matric Higher Secondary School
-Percentage: 86%
+## Achievements
+- Solved **600+ problems** on LeetCode.
+- Strong problem-solving skills with a focus on **Data Structures and Algorithms**.
 
 ---
 
-##  Certification
+## Education
 
-* Diploma in C Programming (C & OOP concepts using C++)
+### Bachelor of Engineering (B.E.) – Electronics and Communication Engineering  
+**:contentReference[oaicite:0]{index=0}**  
+2023 – 2027  
+**CGPA:** 7.85  
+
+### Higher Secondary Education  
+**:contentReference[oaicite:1]{index=1}**  
+**Percentage:** 86%
 
 ---
 
-##  Current Focus
-
-* Mastering **Data Structures & Algorithms**
-* Backend development using **Spring Boot**
-* Building **real-world scalable projects**
+## Certifications
+- Diploma in C Programming
+- Object-Oriented Programming Concepts using C++
 
 ---
-##  GitHub Stats
+
+## Current Focus
+- Mastering **Data Structures & Algorithms**
+- Backend development using **Spring Boot**
+- Building **real-world scalable applications**
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
